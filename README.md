@@ -6,6 +6,7 @@ My 12-month journey from beginner to job-ready Full-Stack Java Engineer.
 
 ## Learning log
 
-| Day | Date       | Hours | Topic                          | Takeaway                                      | Test score |
-| --- | ---------- | ----- | ------------------------------ | --------------------------------------------- | ---------- |
-| 1   | 21/10/2026 | 4.5   | Setup, terminal, first program | Learned setup, terminal, github and java info | 4/4        |
+| Day | Date       | Hours | Topic                                                       | Takeaway                                                     | Test score |
+| --- | ---------- | ----- | ----------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
+| 1   | 21/10/2026 | 4.5   | Setup, terminal, first program                              | Learned setup, terminal, github and java info                | 4/4        |
+| 2   | 22/10/2026 | 4.5   | JVM, class loader, init order, JIT warm-up and memory demos | Learned about JVM working, class loader, JIT, memory working | 4/4        |
